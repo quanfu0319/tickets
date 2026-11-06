@@ -8,7 +8,7 @@
 
 ### 2. 使用技術與工具
 - Backend: Java 21, Spring Boot 4.1.1, Spring Data JPA, Spring Security
-- Database: PostgreSQ, Adminer
+- Database: PostgreSQL, Adminer
 - Authentication: Keycloak
 - Frontend: Vite
 - Environment & Deployment: Docker
@@ -16,8 +16,7 @@
 ### 3. 如何在本地端執行
 - 複製專案庫
    ```bash
-   git clone https://github.com/quanfu0319/ticket-system.git
-   cd ticket-system
+   git clone https://github.com/quanfu0319/tickets.git
    ```
 - 啟動後端：使用 IntelliJ IDEA 開啟專案根目錄，再執行以下指令啟動 Docker 容器
   ```bash
